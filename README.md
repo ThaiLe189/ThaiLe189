@@ -4,7 +4,7 @@
 -->
 
 
-<img align="center" src="https://github.com/ThaiLe189/ThaiLe189/blob/main/img/banner.jpg" />
+<img align="center" src="https://github.com/ThaiLe189/ThaiLe189/blob/main/img/01.jpg" />
 <h1 align="center">Hi 👋, I'm Thái</h1>
 
 - 🔭 I’m a 3rd year student at **EPU** and currently I am intern at **FSI Soft**
